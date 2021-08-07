@@ -5,8 +5,7 @@
       <div class="one-half column">
         <p>I'm a Software Developer based in Melbourne, Australia.</p>
         <p>
-          Welcome to my website, it's not a lot but you can learn more about me
-          by:
+          Welcome to my website, it's simple and to the point but you can learn more by:
         </p>
         <ul>
           <li>Connecting on <a target="_blank" href="https://www.linkedin.com/in/alex-billson-69a0ba13b">LinkedIn</a></li>
