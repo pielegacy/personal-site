@@ -19,9 +19,8 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    "@/node_modules/skeleton-css/css/normalize.css",
-    "@/node_modules/skeleton-css/css/skeleton.css",
-    "@/node_modules/colors.css/css/colors.min.css",
+    "node_modules/bulma/css/bulma.min.css",
+    "node_modules/open-iconic/font/css/open-iconic.min.css"
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
