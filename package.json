@@ -9,6 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "colors.css": "^3.0.0",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7",
     "skeleton-css": "^2.0.4"

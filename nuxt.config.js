@@ -21,6 +21,7 @@ export default {
   css: [
     "@/node_modules/skeleton-css/css/normalize.css",
     "@/node_modules/skeleton-css/css/skeleton.css",
+    "@/node_modules/colors.css/css/colors.min.css",
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
